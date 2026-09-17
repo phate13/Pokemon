@@ -1,1 +1,10 @@
+ETV=ETB
 
+NIT ARENA=nidorina
+
+peeker=pika
+pico=pika
+
+dr rentar=tyranitar
+
+LOCARIO=lucario
