@@ -2,11 +2,26 @@ ETV=ETB
 CTV=ETB
 
 nit arena=nidorina
+knit arena=nidorina
 
-peeker=pika
-peaker=pika
-pico=pika
+peeker=pikachu
+peaker=pikachu
+pico=pikachu
 
-dr rentar=tyranitar
+locario=lucario
 
-LOCARIO=lucario
+more pekoe=morepeko
+more peko=morepeko
+more pico=morepeko
+more peckers=morepeko
+
+bronzo=bronzor
+
+charge a buck=charjabug
+
+finison=finizen
+
+run song=bronzong
+
+my next trip=manectric
+
