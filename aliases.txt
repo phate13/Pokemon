@@ -1,4 +1,5 @@
 ETV=ETB
+CTV=ETB
 
 nit arena=nidorina
 
