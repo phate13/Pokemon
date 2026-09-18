@@ -1,8 +1,9 @@
 ETV=ETB
 
-NIT ARENA=nidorina
+nit arena=nidorina
 
 peeker=pika
+peaker=pika
 pico=pika
 
 dr rentar=tyranitar
